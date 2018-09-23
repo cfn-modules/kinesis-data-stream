@@ -1,0 +1,16 @@
+{
+  "name": "@cfn-modules/kinesis-data-stream",
+  "version": "0.1.0",
+  "description": "AWS Kinesis data stream with encryption, and alerting",
+  "author": "Michael Wittig <michael@widdix.de>",
+  "license": "Apache-2.0",
+  "keywords": ["cfn-modules", "cfn-modules:ExposeArn", "cfn-modules:ExposeName", "cfn-modules:LambdaDependency"],
+  "homepage": "https://github.com/cfn-modules",
+  "bugs": {
+    "url": "https://github.com/cfn-modules/kinesis-data-stream/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cfn-modules/kinesis-data-stream.git"
+  }
+}
