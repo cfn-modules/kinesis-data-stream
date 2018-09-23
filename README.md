@@ -10,7 +10,7 @@ AWS Kinesis data stream with encryption, and [alerting](https://www.npmjs.com/pa
 > Install [Node.js and npm](https://nodejs.org/) first!
 
 ```
-npm i @cfn-modules/kinesis-data-streams
+npm i @cfn-modules/kinesis-data-stream
 ```
 
 ## Usage
