@@ -20,7 +20,7 @@ npm i @cfn-modules/kinesis-data-stream
 AWSTemplateFormatVersion: '2010-09-09'
 Description: 'cfn-modules example'
 Resources:
-  Queue:
+  DataStream:
     Type: 'AWS::CloudFormation::Stack'
     Properties:
       Parameters:
@@ -77,4 +77,4 @@ Resources:
 
 ## Limitations
 
-* Scalable: Auto scaling is not available
+* Scalable: Auto scaling is not yet implemented
