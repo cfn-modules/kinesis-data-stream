@@ -31,6 +31,15 @@ Resources:
       TemplateURL: './node_modules/@cfn-modules/kinesis-data-stream/module.yml'
 ```
 
+## Examples
+
+none
+
+## Related modules
+
+* [lambda-event-source-kinesis-data-stream](https://github.com/cfn-modules/lambda-event-source-kinesis-data-stream)
+* [sqs-queue](https://github.com/cfn-modules/sqs-queue)
+
 ## Parameters
 
 <table>
